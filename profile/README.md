@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Stijn%20/%207txr&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20·%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
-</div>
-
-<br/>
-
-> Building robust, scalable systems — from Minecraft infrastructure to multimedia pipelines and beyond.
-
----
+![7txr banner](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png)
 
 ## About
 
@@ -85,8 +77,4 @@ Open source thrives on collaboration. If you'd like to contribute, explore issue
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=7txr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%"/>
 </div>
