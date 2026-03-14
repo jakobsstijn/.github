@@ -1,5 +1,3 @@
-![7txr banner](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png)
-
 ## About
 
 I'm **Stijn**, a software engineer focused on building production-grade tools and distributed systems. I work across the full stack — from low-level Java networking and event-driven backend architecture to TypeScript frontends and mobile applications — with a strong interest in open source, performance engineering, and developer tooling.
@@ -77,14 +75,14 @@ A complete recreation of Hypixel's "The Pit" gamemode as a Spigot plugin. Featur
 ---
 
 ### 📦 [com.ordnary.accounts](https://github.com/7txr/com.ordnary.accounts) · [com.ordnary.developers](https://github.com/7txr/com.ordnary.developers)
-> **Core platform services for the Ordnary ecosystem** · `Java` · `@ordnary-com`
+> **Core platform services for the Ordnary ecosystem** · `Laravel`, `Vite`, `TailwindCSS`, `Blade` · `@ordnary-com`
 
 Backend services powering the Ordnary platform: `com.ordnary.accounts` handles authentication, identity management, and account lifecycle; `com.ordnary.developers` provides the developer portal, API key management, and tooling for third-party integrations within the Ordnary ecosystem.
 
 ---
 
 ### 🖼️ [YEETIFF](https://github.com/7txr/YEETIFF)
-> **Custom image container format with transcoding pipeline** · `Python`
+> **Custom image container format with transcoding pipeline** · `Python`, `Rust`
 
 An experimental image file format specification and transcoding toolchain — *Yet Even Extremely Expressier Transcoded Image File Format*. Built to explore custom binary encoding, metadata schemas, and image pipeline design at a low level.
 
